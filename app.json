@@ -1,74 +1,20 @@
 {
   "expo": {
-<<<<<<< HEAD
-    "name": "Freemind Vision",
-    "slug": "freemind-vision",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/images/logo.png",
-    "scheme": "freemindvision",
-    "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
-
-    "ios": {
-      "supportsTablet": true
-    },
-
-    "android": {
-    "package": "com.freemindvision.app",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/logo.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
-
-    "web": {
-      "favicon": "./assets/images/logo.png"
-    },
-
-    "plugins": [
-      "expo-router",
-      [
-        "expo-splash-screen",
-        {
-          "image": "./assets/images/logo.png",
-          "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
-        }
-      ]
-    ]
-=======
     "name": "FreeMind Vision",
     "slug": "freemind-vision",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#FFFFFF"
     },
-    "ios": {
-      "supportsTablet": true,
-      "icon": "./assets/icon.png",
-      "splash": {
-        "image": "./assets/splash.png",
-        "resizeMode": "contain",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
     "android": {
+      "package": "com.freemindvision.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true,
-      "icon": "./assets/icon.png",
-      "splash": {
-        "image": "./assets/splash.png",
-        "resizeMode": "contain",
         "backgroundColor": "#FFFFFF"
       }
     },
