@@ -60,7 +60,6 @@
       }
     },
     "android": {
-    "package": "com.freemindvision.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
