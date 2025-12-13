@@ -15,6 +15,7 @@
     },
 
     "android": {
+    "package": "com.freemindvision.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#FFFFFF"
@@ -59,6 +60,7 @@
       }
     },
     "android": {
+    "package": "com.freemindvision.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -74,6 +76,5 @@
     "web": {
       "favicon": "./assets/icon.png"
     }
->>>>>>> 6f87dd21df0b846c1abe1d07aa4adf0c00f1d183
   }
 }
